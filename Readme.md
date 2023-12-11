@@ -61,6 +61,7 @@ Exit the Application:
 
 Close the GUI window to exit the application.
 
-Notes
+Notes:
+
 Ensure that your microphone is properly connected and functioning.
 Adjustments to recording parameters such as sampling rate and bit depth can be made within the script based on user preferences.
