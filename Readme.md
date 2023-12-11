@@ -1,4 +1,5 @@
-Overview
+Overview : 
+
 This Python script implements a basic voice recorder application with a graphical user interface (GUI) using the tkinter library. The application allows users to record audio using their device's microphone, save the recordings as WAV files, and manage the recording process.
 
 Functions
